@@ -1,5 +1,29 @@
-category,base_price,margin
-Electronics,450,0.15
-Fashion,80,0.4
-Home,150,0.25
-Sports,120,0.3
+product_id,product_name,category,base_price,margin
+1,Apex Smartphone,Electronics,800,0.15
+2,Quantum Tablet,Electronics,500,0.18
+3,Pro-Laptop,Electronics,1200,0.12
+4,Noise-Cancel Headphones,Electronics,250,0.25
+5,Smart Watch,Electronics,300,0.2
+6,VR Headset,Electronics,400,0.15
+7,4K Monitor,Electronics,350,0.2
+8,Elite Denim Jacket,Fashion,120,0.45
+9,Summer Silk Dress,Fashion,90,0.5
+10,Wool Overcoat,Fashion,200,0.4
+11,Graphic Tee,Fashion,30,0.6
+12,Leather Boots,Fashion,150,0.35
+13,Yoga Leggings,Fashion,60,0.55
+14,Cashmere Scarf,Fashion,80,0.5
+15,Eco-Comfort Chair,Home,250,0.3
+16,Modern Floor Lamp,Home,120,0.35
+17,Bamboo Bed Sheets,Home,100,0.4
+18,Ceramic Vase Set,Home,70,0.45
+19,Wall Clock,Home,45,0.5
+20,Scented Candle,Home,25,0.6
+21,Standing Desk,Home,450,0.25
+22,Pro-String Racket,Sports,180,0.35
+23,Dumbbell Set,Sports,120,0.3
+24,Yoga Mat,Sports,50,0.45
+25,Premium Tennis Balls,Sports,20,0.55
+26,Hydration Bottle,Sports,35,0.5
+27,Resistance Bands,Sports,25,0.55
+28,Running Shoes,Sports,130,0.4
