@@ -60,7 +60,6 @@ Because of my QA background, I built a [Data Quality Report](Data_Quality_Report
 
 ### 📬 Contact & Career
 I am a Data Analyst with a passion for bridging the gap between technical QA and strategic business growth.
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: [your.email@example.com]
-- **Portfolio**: [Back to GitHub](https://github.com/yourusername)
+- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohanraj-s-/))
+- **Portfolio**: [Back to GitHub](https://github.com/MohanRajS-Tech/)
 
