@@ -4,7 +4,7 @@
 ### 📊 Executive Summary
 This project demonstrates an end-to-end data analytics workflow for **Nordcart**, a synthetic e-commerce retailer. Leveraging **PostgreSQL** and **Business Intelligence** principles, I solved three critical business challenges: budget reallocation for profit maximization, retention strategies for holiday cohorts, and determining the **True Value of Marketing Channels** (distinguishing between new sales and existing organic traffic).
 
-**The "Quality-First" Difference**: With 4 years of experience in Quality Assurance (QA), I approached this project with a rigorous "Data Integrity" mindset—ensuring that the insights are not just visually appealing, but mathematically sound and validated against edge cases.
+**The "Quality-First" Difference**: With 3+ years of experience in Quality Assurance (QA), I approached this project with a rigorous "Data Integrity" mindset—ensuring that the insights are not just visually appealing, but also mathematically sound .
 
 ---
 
@@ -14,7 +14,6 @@ This project demonstrates an end-to-end data analytics workflow for **Nordcart**
 ├── 2.Executive_Summary_Findings.md     # Stakeholder Report (Recommendations)
 ├── COMPANY_BACKGROUND.md               # Context & Business Model
 ├── Data_Quality_Report.md              # QA Validation Layer
-├── PROJECT_RESUME_NARRATIVE.md         # Interview Guide & Resume Context
 ├── important_concepts.md               # Analytical Deep-Dive (ELI5)
 ├── sql_views_for_powerbi.sql           # Database Modeling (Star Schema)
 ├── sql_problemStatement001.sql         # Budget Reallocation Logic
@@ -37,13 +36,13 @@ This project demonstrates an end-to-end data analytics workflow for **Nordcart**
 ### 🎯 Business Challenges & Insights
 
 #### 1. Profit-Driven Budget Reallocation
-> "Electronics accounts for 55% of revenue but has low margins (15%), while Fashion yields 60% margins. How would a $50k 'Paid Search' budget shift impact net profit?"
-- **💡 Insight**: Shifting spend based on **POAS (Profit on Ad Spend)** rather than ROAS projected a **$165k lift** in net profit.
+> "Electronics accounts for 55% of revenue but has low margins (16%), while Fashion yields 60% margins. How would a $50k 'Paid Search' budget shift impact net profit?"
+- **💡 Insight**: Shifting spend based on **POAS (Profit on Ad Spend)** rather than ROAS projected a **$31k lift** in net profit.
 - **SQL Source**: [sql_problemStatement001.sql](sql_problemStatement001.sql)
 
 #### 2. Holiday Retention & Reactivation
 > "Revenue drops 50% post-Q4. Which channel produces the stickiest customers?"
-- **💡 Insight**: Identifed that **Fashion-Heavy buyers double their value ($110 → $251)** post-holiday, making them the priority for Q1 retention campaigns.
+- **💡 Insight**: Identifed that **Fashion-Heavy buyers double their value ($110 → $248)** post-holiday, making them the priority for Q1 retention campaigns.
 - **SQL Source**: [sql_problemStatement002.sql](sql_problemStatement002.sql)
 
 #### 3. Real Marketing Value (Incrementality)
@@ -60,7 +59,4 @@ Because of my QA background, I built a [Data Quality Report](Data_Quality_Report
 
 ### 📬 Contact & Career
 I am a Data Analyst with a passion for bridging the gap between technical QA and strategic business growth.
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: [your.email@example.com]
-- **Portfolio**: [Back to GitHub](https://github.com/yourusername)
-
+- **LinkedIn**: [https://www.linkedin.com/in/mohanraj-s-/]
